@@ -3,7 +3,7 @@ def main():
     print("Manage your digital assets securely.")
     print("New feature: Secure digital inheritance.")
     print("Digital legacy protection enabled.")
-    print("Security feature testing completed.")
+    print("Security validation completed successfully.")
     print("Improved security for digital legacy information.")
 
 
