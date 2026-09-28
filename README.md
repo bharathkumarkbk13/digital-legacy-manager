@@ -18,3 +18,5 @@ The Digital Legacy Manager helps users organize important digital information fo
 - Python
 - Git
 - GitHub
+
+- Git workflow demonstration completed.
