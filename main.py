@@ -4,6 +4,7 @@ def main():
     print("New feature: Secure digital inheritance.")
     print("Digital legacy protection enabled.")
     print("Security feature testing completed.")
+    print("Improved security for digital legacy information.")
 
 
 if __name__ == "__main__":
